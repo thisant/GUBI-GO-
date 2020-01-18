@@ -238,12 +238,12 @@ MonoBehaviour:
   _initializeOnStart: 0
   _imagery:
     _layerProperty:
-      sourceType: 2
+      sourceType: 6
       sourceOptions:
         isActive: 1
         layerSource:
           Name: Dark
-          Id: mapbox://styles/mapbox/dark-v9
+          Id: mapbox://styles/jonaporto/ck5iugw2x1d7e1ilzrrsmug17
           Modified: 
           UserName: 
       rasterOptions:
